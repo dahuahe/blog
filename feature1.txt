@@ -1,3 +1,4 @@
 var function (){
+   do onebefore // 在代码执行前先做一份。。。。。。
    do one  // 123123123
 }
