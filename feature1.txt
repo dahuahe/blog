@@ -6,4 +6,5 @@ var function (){
    do home // 执行home 操作
    do home // 执行home 操作
    do home // 执行home 操作
+   123123123
 }
