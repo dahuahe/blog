@@ -4,9 +4,14 @@ function EPG(){
 
     Main();
 
+    blog();
 
 
-
+}
+function blog(){
+    ...
+    ...
+    ...
 }
 function Main(){
     ...
