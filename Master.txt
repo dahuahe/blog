@@ -2,7 +2,9 @@ function EPG(){
 
 
 blog3()
-    Main();
+    Main(
+    。。。。。。。
+    );
 
 
 
