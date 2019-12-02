@@ -1,18 +1,19 @@
 function EPG(){
 
 
-
+blog3()
     Main();
 
-    blog2();
+
 
 
 }
-function blog2(){
-    ...
-        ...
-    ...
-    ...
+function blog3(){
+    .       .
+
+
+
+
 
 }
 function Main(){
